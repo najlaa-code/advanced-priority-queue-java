@@ -169,6 +169,3 @@ Java 8 or higher
 
 ## Author
 Najlaa Achouhal
-## License
-
-This project is available for educational purposes.
